@@ -35,11 +35,11 @@ LOKESH_face_encoding = face_recognition.face_encodings(Pranali_image)[0]
 
 # Create arrays of known face encodings and their names
 known_face_encodings = [
-    FIRE2_face_encoding,
+
    LOKESH_face_encoding
 ]
 known_face_names = [
-    "FIRE2",
+   
     "LOKESH"
 ]
 
